@@ -1,0 +1,14 @@
+{
+  "name": "s3_bu",
+  "version": "1.0.0",
+  "description": "Inrastructure required to save artifacts to S3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cdktf/provider-aws": "^19.7.0"
+  }
+}
